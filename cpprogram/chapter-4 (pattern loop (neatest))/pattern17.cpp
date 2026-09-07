@@ -1,4 +1,4 @@
-// Triangle numbers
+// odd numbers triangle
 
 // 1
 // 1 3
