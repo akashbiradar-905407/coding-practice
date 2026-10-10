@@ -1,7 +1,7 @@
 // POINTER
 
 // Address printing
-// main things is '&' using before varibel
+// main things is '&' using before variabel
 // 
 
 #include<iostream>

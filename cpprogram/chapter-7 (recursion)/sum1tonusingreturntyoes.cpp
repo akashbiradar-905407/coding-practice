@@ -1,0 +1,26 @@
+// print sum 1 to n (return type)
+
+// logic = sum(n)= n + sum(n-1)
+
+#include<iostream>
+  using namespace std;
+
+  int sum(int n){
+
+    if(n==1) return 1;
+    return n + sum(n-1);
+ }
+
+ int main(){
+
+ int n;
+
+ cout<<"Enter n: ";
+ cin>>n;
+
+ cout<<sum(n);
+
+
+return 0;
+
+ }
